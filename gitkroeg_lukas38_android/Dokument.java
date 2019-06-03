@@ -1,7 +1,9 @@
 dummy file
 <<<<<<< HEAD
+<<<<<<< HEAD
 public void thisIsANewMethod() {
 	if(lukas == intelligent)return false;
+	Aus Praxis der Gipfeltreffen der Staats- und Regierungschefs hat sich der Europäische Rat entwickelt, ...
  }
 =======
 public gitdid911(){}
