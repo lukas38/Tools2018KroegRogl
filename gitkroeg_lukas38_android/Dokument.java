@@ -4,6 +4,8 @@ dummy file
 public void thisIsANewMethod() {
 	if(lukas == intelligent)return false;
 	Aus Praxis der Gipfeltreffen der Staats- und Regierungschefs hat sich der Europäische Rat entwickelt, ...
+	while(simon != pretty){
+	
  }
 =======
 public gitdid911(){}
